@@ -96,4 +96,4 @@
 
 
 ## 🐷 課題例
-![](https:///github.com/YutoSekiguchi/ExPPCheckerPrompt/images/basic_Celestial.png)
+![](https://github.com/YutoSekiguchi/ExPPCheckerPrompt/blob/main/images/basic_Celestial.png?raw=true)
